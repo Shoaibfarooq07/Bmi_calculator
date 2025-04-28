@@ -15,15 +15,15 @@ elif BMI>=25 and BMI<=29.9:
 elif BMI>=30 and BMI<=34.9:
     print(f"{name} you are obese high")
 elif BMI>=35 and BMI<=39.9:
-    print(f"{name} you are Severely Obese	Very High")
+    print(f"{name} you are Severely Obese Very High")
 elif BMI > 40:
-    print(f"{name} you are 	Morbidly Obese	Extremely High")
+    print(f"{name} you are Morbidly Obese Extremely High")
 
 else:
     print(f"{name} enter valid input")
     
 
-
+#  weight chart : :
 # Under 18	Underweight	Minimal
 # 18.5 - 24.9	Normal Weight	Minimal
 # 25 - 29.9	Overweight	Increased
